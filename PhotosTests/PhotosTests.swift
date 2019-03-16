@@ -19,6 +19,7 @@ class PhotosTests: XCTestCase {
     }
 
     func testExample() {
+        
     }
 
     func testPerformanceExample() {

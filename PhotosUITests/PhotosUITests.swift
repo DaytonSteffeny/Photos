@@ -16,9 +16,11 @@ class PhotosUITests: XCTestCase {
     }
 
     override func tearDown() {
+        
     }
 
     func testExample() {
+        
     }
 
 }
